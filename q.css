@@ -1,0 +1,38 @@
+.headerdiv{
+  display: flex;
+  background-color: aqua;
+  justify-content: space-between;
+  height: fit-content;
+}
+.a{
+  display: flex;
+  background-color: blueviolet;
+  justify-content: space-between;
+  font-family: DM Sans;
+  font-size: 1.5rem;
+  font-weight: 400;
+  
+ 
+}
+.africanodysseydiv{
+  background-color: blue;
+  font-weight: 700;
+  font-size: 1.5rem;
+  font-family: DM sans;
+  padding-left: 9%;
+}
+.signups{
+  background-color: brown;
+  font-family: DM Sans;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.homediv{
+  padding-right: 1rem;
+}
+.signup{
+  margin-right: 1rem;
+}
+body{
+  font-size: 62%;
+}
