@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 100vw;
+}
+.headerdiv{
+ 
+  height: 6rem;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-between;
+}
+body{
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+.container{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  background-color: gray;
+}
+.menudiv{
+  display: flex;
+  
+}
+.homediv{
+  margin-right: 1rem;
+}
+.odysseybutton{
+  background-color: lightblue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+.signbutton{
+  background-color: lightblue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+.div2{
+  background-image: url("landscape.jpg");
+  height: 500px;
+}
